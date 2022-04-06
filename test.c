@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main() {
-    //Make a change to test Branch second time
+    //Update a commit messages after revert
+    //Second branch created
 
 }
